@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.executable.path": "${workspaceFolder}/.maven/apache-maven-3.9.9/bin/mvn.cmd",
+    "java.import.maven.enabled": true
+}
