@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TembakauApplication",
+            "request": "launch",
+            "mainClass": "com.rantaitasok.tembakau.TembakauApplication",
+            "projectName": "tembakau-prancak-backend"
+        }
+    ]
+}
