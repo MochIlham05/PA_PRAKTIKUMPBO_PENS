@@ -1,0 +1,262 @@
+{
+  "petani": [
+    {
+      "nik": "3529011111110001",
+      "nama": "Pak Slamet",
+      "asalDesa": "Kec. Guluk-Guluk",
+      "luasLahanHa": 1.5
+    },
+    {
+      "nik": "3522109876543215",
+      "nama": "ilham",
+      "asalDesa": "bangselok",
+      "luasLahanHa": 100.0
+    },
+    {
+      "nik": "3522189765476567",
+      "nama": "ilham",
+      "asalDesa": "bangselok",
+      "luasLahanHa": 8.0
+    }
+  ],
+  "transaksi": [
+    {
+      "idTransaksi": "T-001",
+      "nikPetani": "3529011111110001",
+      "kodeBatch": "BATCH-001",
+      "varietas": "Prancak-95",
+      "beratKg": 250.0,
+      "kadarAirPersen": 11.5,
+      "kodeGudang": "GDG-PST-01",
+      "status": "DISIMPAN_DI_GUDANG"
+    },
+    {
+      "idTransaksi": "TRX-952",
+      "nikPetani": "3529011111110001",
+      "kodeBatch": "BATCH-971",
+      "varietas": "Prancak-95",
+      "beratKg": 20.0,
+      "kadarAirPersen": 11.5,
+      "kodeGudang": "",
+      "status": "TERVERIFIKASI"
+    },
+    {
+      "idTransaksi": "TRX-196",
+      "nikPetani": "3522109876543215",
+      "kodeBatch": "BATCH-216",
+      "varietas": "Prancak-95",
+      "beratKg": 200.0,
+      "kadarAirPersen": 11.5,
+      "kodeGudang": "",
+      "status": "TERVERIFIKASI"
+    },
+    {
+      "idTransaksi": "TRX-864",
+      "nikPetani": "3522189765476567",
+      "kodeBatch": "BATCH-885",
+      "varietas": "Prancak-95",
+      "beratKg": 200.0,
+      "kadarAirPersen": 11.5,
+      "kodeGudang": "",
+      "status": "TERVERIFIKASI"
+    }
+  ],
+  "gudang": [
+    {
+      "kode": "GDG-PST-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-SMP-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-SMP-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 1500.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-SMP-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-PMK-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1200.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "Pamekasan"
+    },
+    {
+      "kode": "GDG-PMK-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Pamekasan"
+    },
+    {
+      "kode": "GDG-PMK-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Pamekasan"
+    },
+    {
+      "kode": "GDG-PMK-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 600.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Pamekasan"
+    },
+    {
+      "kode": "GDG-SPG-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "Sampang"
+    },
+    {
+      "kode": "GDG-SPG-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 700.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Sampang"
+    },
+    {
+      "kode": "GDG-SPG-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 900.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Sampang"
+    },
+    {
+      "kode": "GDG-SPG-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Sampang"
+    },
+    {
+      "kode": "GDG-BKL-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "Bangkalan"
+    },
+    {
+      "kode": "GDG-BKL-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 600.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Bangkalan"
+    },
+    {
+      "kode": "GDG-BKL-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Bangkalan"
+    },
+    {
+      "kode": "GDG-BKL-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Bangkalan"
+    },
+    {
+      "kode": "GDG-BRT-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-TMR-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 1500.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-SLT-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Sumenep"
+    },
+    {
+      "kode": "GDG-TUB-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "Tuban"
+    },
+    {
+      "kode": "GDG-TUB-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "Tuban"
+    },
+    {
+      "kode": "GDG-TUB-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "Tuban"
+    },
+    {
+      "kode": "GDG-TUB-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "Tuban"
+    },
+    {
+      "kode": "GDG-PRO-01",
+      "nama": "Gudang Penyangga Pusat",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "probolinggo"
+    },
+    {
+      "kode": "GDG-PRO-02",
+      "nama": "Gudang Pengumpul Barat",
+      "kapasitasMaksKg": 800.0,
+      "wilayah": "Wilayah Barat",
+      "daerah": "probolinggo"
+    },
+    {
+      "kode": "GDG-PRO-03",
+      "nama": "Gudang Penyangga Timur",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Timur",
+      "daerah": "probolinggo"
+    },
+    {
+      "kode": "GDG-PRO-04",
+      "nama": "Gudang Pembelian Selatan",
+      "kapasitasMaksKg": 500.0,
+      "wilayah": "Wilayah Selatan",
+      "daerah": "probolinggo"
+    },
+    {
+      "kode": "GDG-UTR-01",
+      "nama": "Gudang Penyangga Utara",
+      "kapasitasMaksKg": 1000.0,
+      "wilayah": "Wilayah Pusat",
+      "daerah": "probolinggo"
+    }
+  ]
+}

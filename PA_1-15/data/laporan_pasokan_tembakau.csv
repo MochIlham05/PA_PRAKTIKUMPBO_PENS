@@ -1,0 +1,3 @@
+ID Transaksi,Nama Petani,NIK Petani,Asal Desa,Kode Batch,Varietas,Berat (kg),Kadar Air (%),Grade Mutu,Harga Satuan (Rp),Total Pembayaran (Rp),Status Transaksi
+"T-001","Pak Slamet","3529011111110001","Kec. Guluk-Guluk","BATCH-001","Prancak-95",250.00,11.50,"A_SUPER",45000.00,11250000.00,"Disimpan di gudang"
+"T-002","Pak Mat","3529012222220002","Kec. Pasongsongan","BATCH-002","Prancak-95",400.00,13.50,"B_MEDIUM",38000.00,15200000.00,"Disimpan di gudang"
